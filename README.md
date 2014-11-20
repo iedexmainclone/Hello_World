@@ -1,6 +1,5 @@
 Hello_World
 ===========
 MY PRACTICE
-<<<<<<< HEAD
-change in margo branch
-18:29
+Changed 0:55 21 Nov.
+Branch master origin repo.
